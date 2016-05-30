@@ -1,0 +1,28 @@
+name: Pixels On Canvas
+favicon: null
+layout_spectrum: 0.3317524634767324
+typography_spectrum: 0.5680605191737413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.10848084813915193
+  lightness: 0.9557001010980457
+  saturation: 0.09306572424247861
+  rhythmicContrast: 0.19521883642300963
+purpose: []
