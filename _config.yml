@@ -1,4 +1,4 @@
-name: Pixels On Canvas
+name: UI/UX
 favicon: null
 layout_spectrum: 0.3317524634767324
 typography_spectrum: 0.5680605191737413
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.10848084813915193
+    - '#dbdbdb'
+    - '#b2aaa7'
+    - '#46474c'
+    - '#fcfcfc'
+    - '#777576'
+  brandStrength: 0.1875
   lightness: 0.9557001010980457
-  saturation: 0.09306572424247861
+  saturation: 0.125
   rhythmicContrast: 0.19521883642300963
 purpose: []
