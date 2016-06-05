@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pixels on Canvas]]></title>
         <description><![CDATA[Pixels on Canvas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pixels-on-canvas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 12:35:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 12:35:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pixels-on-canvas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c63cb59a-4c7a-4faf-a338-6922588626b8.jpg">]]></description>
-            <link>undefined1-4/index.html</link>
+            <link>https://thegrid.ai/pixels-on-canvas/1-4/index.html</link>
             <guid isPermaLink="false">70ad27d8-b333-4bec-b28a-449523095471</guid>
-            <pubDate>Sun, 05 Jun 2016 10:30:47 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2016 10:34:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
